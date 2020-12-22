@@ -6,3 +6,7 @@ Sample web project
 Learning git commands
 
 ## How to contribute
+
+### Copyright
+
+2020 Git.training
